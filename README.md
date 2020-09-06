@@ -1,8 +1,6 @@
 # [Curso Avanzado de Estadística Multivariante con R y Python](https://www.udemy.com/course/estadistica-multivariante/?couponCode=98D12F7281186CB91904)
 ## Con [Elisa Cabana](https://www.udemy.com/user/elisa-cabana-garceran-del-vall/) y [Juan Gabriel Gomila](https://www.udemy.com/user/juangabriel2)
 
-Prueba
-
 Bienvenido a nuestro Curso avanzado de estadística multivariante con R y Python, donde Elisa Cabana y Juan Gabriel Gomila, dos de los instructores top de Udemy, así como matemáticos y analistas de datos de profesión te traen todo lo que necesitas para analizar datos del mundo multivariante tanto en R como en Python, los dos lenguajes de programación más utilizados de todo el mundo para el análisis de datos, y dos habilidades super solicitadas por las empresas en las ofertas de trabajo de Linkedin.
 
 
